@@ -6,7 +6,7 @@ All the files can be obtained in the ezyzip file for download.
 Basically, 
 Group 5 HTML deals with the front end, the html side.
 
-Database1.js deal with the connection to the SQL database.
+Database1.js deals with the connection to the SQL and the connection to a selected database (chosen here is the database "b9_group5_jeremy")
 
 Getdata1.js deal more like an API to fetch the data using the "GET" function.
 
